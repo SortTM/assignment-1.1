@@ -1,0 +1,45 @@
+supplier_id,quality,quantity,conditions,method_of_payment,serviceability,reputation,communicativeness,competence,flexibility,financial_condition,number_of_employees,price,delivery_time,supplier_location,traffic_connections,user_ratings_avg
+12345,Excellent,100,New,Credit Card,Excellent,Well-known,9.0,8/10,7/10,Stable,50,120.0,5,London,7.0,4.0
+23456,Excellent,500,Used,Wire_Transfer,Excellent,Reputable,8.0,9/10,7/10,Stable,100,250.0,7,Manchester,6.0,4.0
+34567,Excellent,200,Refurbished,PayPal,Good,Well-known,7.0,8/10,6/10,Satisfactory,75,180.0,6,Birmingham,5.0,3.0
+45678,Good,300,New,Credit Card,Fair,Average,6.0,7/10,5/10,Satisfactory,60,150.0,8,US,4.0,2.0
+56789,Poor,1000,Used,Wire_Transfer,Poor,Low,5.0,6/10,4/10,Risk,30,100.0,10,US,3.0,1.0
+3257,Excellent,1000,Used,PayPal,Excellent,Reputable,4.0,3/5,2/5,Stable,50,120.0,5,London,6.0,4.0
+8745,Good,500,New,Credit Card,Good,Average,4.0,3/5,3/5,Satisfactory,20,75.0,3,Manchester,9.0,4.0
+1287,Poor,200,Refurbished,Wire Transfer,Poor,Low,2.0,2/5,2/5,Risk,5,30.0,7,Birmingham,3.0,2.0
+1357,Excellent,1000,New,Credit Card,Excellent,Well-known,8.0,9/10,7/10,Stable,50,10.0,5,London,7.0,4.0
+2468,Good,500,Used,Wire Transfer,Fair,Reputable,7.0,8/10,6/10,Satisfactory,20,15.0,7,Manchester,6.0,3.0
+3579,Excellent,2000,Refurbished,PayPal,Good,Average,6.0,7/10,5/10,Risk,10,8.0,3,Birmingham,5.0,2.0
+4680,Excellent,500,New,Credit Card,Poor,Low,5.0,6/10,4/10,Risk,5,20.0,10,US,4.0,1.0
+982731,Good,250,Used,Credit Card,Good,Reputable,5.0,4/5,4/5,Stable,20,150.0,7,London,9.0,4.0
+736522,Excellent,1000,New,Wire Transfer,Excellent,Well-known,4.0,5/5,5/5,Satisfactory,50,250.0,5,Manchester,8.0,5.0
+531905,Good,500,Used,PayPal,Fair,Average,3.0,3/5,3/5,Risk,10,100.0,10,Birmingham,6.0,3.0
+128304,Excellent,750,Refurbished,Credit Card,Excellent,Reputable,4.0,4/5,5/5,Stable,30,200.0,6,US,7.0,4.0
+218753,Good,300,Used,Wire Transfer,Good,Low,2.0,2/5,2/5,Risk,15,120.0,8,London,5.0,2.0
+123,Excellent,100,New,Credit Card,Excellent,Well-known,9.0,8/10,7/10,Stable,50,120.0,5,London,6.0,4.0
+234,Fair,50,Refurbished,PayPal,Good,Well-known,7.0,7/10,6/10,Stable,30,80.0,7,Manchester,5.0,3.0
+345,Good,200,Used,Wire_Transfer,Excellent,Reputable,8.0,9/10,8/10,Satisfactory,100,150.0,4,Birmingham,7.0,4.0
+456,Excellent,150,New,PayPal,Good,Well-known,9.0,9/10,8/10,Stable,80,200.0,3,US,8.0,5.0
+567,Good,80,Used,Credit Card,Fair,Average,6.0,6/10,6/10,Satisfactory,40,100.0,6,London,4.0,2.0
+678,Poor,30,Used,Wire_Transfer,Poor,Low,4.0,3/10,2/10,Risk,20,50.0,10,Manchester,2.0,1.0
+12345,Excellent,1000,Excellent,Credit Card,Excellent,Reputable,8.0,9/10,7/10,Stable,50,12.0,5,London,4.0,4.0
+67890,Good,500,New,Wire Transfer,Good,Reputable,9.0,8/10,7/10,Satisfactory,20,15.0,7,Manchester,6.0,4.0
+24680,Excellent,200,Used,PayPal,Good,Average,7.0,7/10,6/10,Risk,10,10.5,4,Birmingham,8.0,3.0
+13579,Poor,100,Refurbished,Wire Transfer,Poor,Low,5.0,4/10,3/10,Risk,5,8.0,10,US,2.0,2.0
+12345,Excellent,100,New,Credit Card,Excellent,Well-known,4.0,4/5,3/5,Stable,50,100.0,5,London,8.0,4.0
+23456,Excellent,200,Used,Wire Transfer,Good,Reputable,3.0,3/5,2/5,Stable,20,80.0,7,Manchester,6.0,3.0
+34567,Fair,50,Refurbished,PayPal,Fair,Average,2.0,2/5,1/5,Satisfactory,10,50.0,10,Birmingham,4.0,2.0
+45678,Excellent,150,New,Credit Card,Excellent,Well-known,5.0,5/5,4/5,Stable,100,120.0,3,US,9.0,5.0
+56789,Excellent,300,Used,Wire Transfer,Excellent,Well-known,4.0,4/5,3/5,Stable,70,150.0,6,London,7.0,4.0
+12345,Excellent,1000,Excellent,Credit Card,Excellent,Well-known,9.0,9/10,8/10,Stable,50,500.0,7,London,8.0,4.0
+67890,Reputable,500,New,Wire Transfer,Good,Reputable,8.0,8/10,7/10,Stable,100,800.0,5,Manchester,6.0,4.0
+13579,Average,200,Used,PayPal,Fair,Average,7.0,7/10,6/10,Satisfactory,20,300.0,10,Birmingham,4.0,3.0
+24680,Low,100,Refurbished,Credit Card,Poor,Low,5.0,5/10,4/10,Risk,5,150.0,14,US,2.0,2.0
+12345,Excellent,100,Used,Credit Card,Excellent,Well-known,4.0,4/5,4/5,Stable,50,50.0,5,London,7.0,4.0
+67890,Good,500,New,Wire Transfer,Good,Reputable,5.0,5/5,5/5,Satisfactory,100,100.0,7,Manchester,6.0,5.0
+13579,Excellent,200,Refurbished,PayPal,Fair,Average,3.0,3/5,3/5,Stable,30,80.0,10,Birmingham,3.0,3.0
+24680,Fair,50,Used,Credit Card,Poor,Low,2.0,2/5,2/5,Risk,10,30.0,15,US,1.0,2.0
+56789,Excellent,100,New,Credit Card,Excellent,Well-known,4.0,4/5,3/5,Stable,50,120.0,5,London,7.0,4.0
+98765,Good,50,Used,Wire Transfer,Good,Reputable,3.0,3/5,2/5,Satisfactory,20,80.0,7,Manchester,6.0,3.0
+12345,Poor,20,Refurbished,PayPal,Poor,Low,1.0,2/5,1/5,Risk,5,30.0,10,Birmingham,2.0,1.0
+456789,Excellent,1000,New,Credit Card,Excellent,Well-known,9.0,8/10,7/10,Stable,50,150.0,5,London,8.0,4.0
